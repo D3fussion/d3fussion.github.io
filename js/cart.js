@@ -158,7 +158,7 @@ document.addEventListener("DOMContentLoaded", () => {
               </div>
               <div class="u-container-style u-palette-1-light-3 u-size-12-sm u-size-12-xs u-size-13-md u-size-14-lg u-size-14-xl u-layout-cell-16">
                 <div class="u-border-2 u-border-grey-25 u-container-layout u-container-layout-16">
-                  <p class="u-align-center u-text u-text-default u-text-13">$1${totalPrice}</p>
+                  <p class="u-align-center u-text u-text-default u-text-13">$11${totalPrice}</p>
                 </div>
               </div>
             </div>
